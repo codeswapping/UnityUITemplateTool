@@ -8,6 +8,7 @@ Open UI Template Manager window through Menu->Window->UI Template Manager
 Once window is opened, you can select "Load template" button to open a text file which contains the Ui template json file.
 
 To create a new template, click on the "Create New Template" button. It will create a sample template json and it will be visible in the UI template manager window. This is a sample json.
+
 [{
   "templateName":"New Template",
   "templateJson":
