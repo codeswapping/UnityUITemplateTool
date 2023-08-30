@@ -40,6 +40,7 @@ To create a new template, click on the "Create New Template" button. It will cre
   	]
   }
 }]
+
 Here is brief 
 
 -> templateName - Name for your template, you can set any name here and it will appear in the list of template at left hand side of the window.
